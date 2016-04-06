@@ -7,7 +7,7 @@
     <body>
         <h1>Привет</h1>
         <?php
-            echo "GIT";
+            echo "GITttt";
         ?>
     </body>
 </html>
